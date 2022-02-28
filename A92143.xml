@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Honour advanced: or, A briefe account of the long keeping, and late leaving of the close at Liechfield, being a full relation of all the passages worthy observation during the whole time of the siege; as also of the honourable tearmes upon which it was resigned. Together with the names of those valiant commanders who have done this service both for church and state; some of them unexperienced in warre, yet all couragious for the truth. By Captaine John Randolph, a commander, and eye-witnesser in the said close.</title>
+            <author>Randolph, John, Captain.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92143</idno>
+            <idno type="STC">Wing R239</idno>
+            <idno type="STC">Thomason E99_28</idno>
+            <idno type="STC">ESTC R20381</idno>
+            <idno type="EEBO-CITATION">99863621</idno>
+            <idno type="PROQUEST">99863621</idno>
+            <idno type="VID">115831</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115831)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E99[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Honour advanced: or, A briefe account of the long keeping, and late leaving of the close at Liechfield, being a full relation of all the passages worthy observation during the whole time of the siege; as also of the honourable tearmes upon which it was resigned. Together with the names of those valiant commanders who have done this service both for church and state; some of them unexperienced in warre, yet all couragious for the truth. By Captaine John Randolph, a commander, and eye-witnesser in the said close.</title>
+                  <author>Randolph, John, Captain.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho: Underhill,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lichfield (England) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115831:1" rendition="simple:additions"/>
+            <p>HONOUR ADVANCED: <hi>OR,</hi> A briefe account of the long keeping, and late leaving of the Cloſe at <hi>Liechfield,</hi> Being a full Relation of all the Paſſages worthy obſervation during the whole time of the Siege; As alſo of the honourable tearmes upon which it was reſigned.</p>
+            <p>Together with The Names of thoſe valiant Com<g ref="char:EOLhyphen"/>manders who have done this ſervice both for Church and State; Some of them unexperienced in Warre, yet all couragious for the Truth.</p>
+            <p>
+               <hi>By Captaine</hi> John Randolph, <hi>A Com<g ref="char:EOLhyphen"/>mander, and eye-witneſſer in the ſaid Cloſe.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>1 Sam. 2.30.</hi>
+               </bibl>
+               <p>Them that honour me, I will honour.</p>
+            </q>
+            <p>
+               <hi>Printed for</hi> Tho: Underhill. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115831:2"/>
+            <pb n="1" facs="tcp:115831:2"/>
+            <head>
+               <hi>Gods goodneſſe and ſeverity:</hi> MANIFESTED IN The ſtrange preſervation of the Gar<g ref="char:EOLhyphen"/>riſon in <hi>Liechfield</hi> Cloſe; and after a long Siege, honourably ſurrendred to Prince <hi>Rupert</hi> and his Forces.</head>
+            <head type="sub">Faithfully Related by <hi>Jo: Randolph,</hi> one of the Captaines in the ſaid Cloſe.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Need not tell the world what (to their coſt) they know, That Souldiers by action, and Printers by promulgation, are the two great Engliſh Factors. I am content to lay by my Sword, and handle the Pen at this time, not to encroach upon anothers imployment, but that ſuch as will, may know the truth of the paſſages concerning <hi>Liech<g ref="char:EOLhyphen"/>field</hi> Cloſe, of which I was an eye-witneſſe.</p>
+            <p>The Cloſe of <hi>Liechfield</hi> hath a ſtrong wall and buildings incompaſſing the Cathedrall Church, which all together make a very defenſible Fort; This was gained from the Earle of <hi>Cheſterfield,</hi> and divers other Commanders and
+<pb n="2" facs="tcp:115831:3"/>Souldiers (by the forces raiſed by the Lord <hi>Brooke</hi> after his death) under the Conduct of Sir <hi>John Gell,</hi> then Com<g ref="char:EOLhyphen"/>mander in Chiefe, who afterwards by adviſe of the Com<g ref="char:EOLhyphen"/>mittee of the County, placed a Garriſon in it, conſiſting of about two hundred ſouldiers, beſides Captaines: This Garriſon Prince <hi>Rupert</hi> (having drawn his forces into <hi>Staf<g ref="char:EOLhyphen"/>fordſhire</hi>) ſummoned by a Trumpeter (the ſouldiers uſuall Herauld) on <hi>April</hi> the ſixth, to yeeld up the Cloſe unto him, conditioning that the Captaines and Souldiers ſhould be entertained to ſerve his Majeſty in their reſpective pla<g ref="char:EOLhyphen"/>ces, or elſe march away; we returned a direct deniall, and told him we reſolved to fight it out: Hereupon, on <hi>Satur<g ref="char:EOLhyphen"/>day, April</hi> the eighth, he advanced into <hi>Liechfield,</hi> the In<g ref="char:EOLhyphen"/>habitants petitioning him ſo to doe, his forces then were a<g ref="char:EOLhyphen"/>bout foure thouſand: <hi>Sunday,</hi> the ninth of <hi>April,</hi> they well obſerved us, intrenching themſelves, and in the night plant<g ref="char:EOLhyphen"/>ed their Ordnance on the Eaſt ſide of the Cloſe, fitting their inſtruments, which on <hi>Munday, April</hi> the tenth, they plaid with in earneſt, ſhooting about one hundred and fiftie bullets roundlie, moſt of which weighed nineteene pound, and not all in vaine, for they pierced our walls very fre<g ref="char:EOLhyphen"/>quentlie, which we repaired with ſtones and earth without any prejudice to our ſelves, this deſigne not anſwering their expectations, they removed their Ordnance thence, and planted them on the South ſide, in a garden of Sir <hi>Richard Dyets,</hi> This proved to them labour in vaine, and then be<g ref="char:EOLhyphen"/>cauſe we had leiſure, we bravely mounted three or foure leather Buckets upon wheeles like a Morter-piece, which they let flie at furiouſly, and ſo ſpent the reſt of that day, in playing while we danced, ſome of them that while having laid the great Pond drie, that lay between their Ordnance and us, in the night following endeavoured with Fagots
+<pb n="3" facs="tcp:115831:3"/>to make a Bridge over the mud, and did halfe per<g ref="char:EOLhyphen"/>forme it before we could diſcerne it, after which we plaid them a ſit with our muskets, to their loſſe, which yet did not deter them, for that deſigne (as much conducing to their advantage) they proſecu<g ref="char:EOLhyphen"/>ted divers nights, though we laid the man for the moſt part with the Fagot; and how ever they had a ſtocke ſufficient, and might ſpare men yet was the ſervice too hot, dead men and Fagots did not joyne hanſomely together, nevertheleſſe the day follow<g ref="char:EOLhyphen"/>ing they ſhot from the Garden or backeſide where they had pitched, by reaſon whereof they fired a houſe in the Town which they intended not, where<g ref="char:EOLhyphen"/>by eight or ten other houſes were conſumed, and that while we made way through the flames with our Bullets to meete our Adverſaries, and there ma<g ref="char:EOLhyphen"/>ny of them fell. Upon Saturday, April 15. they planted their great Ordnance at the South Gate neere the Mill, which is within a few yards of the Cloſe, and thence ſhot about ſixtie times, thereby battering all the Wall over the Percullis, intending to make their entry there on Sunday morning, and therefore during the ſmoake of the ſhot, attempted to ſcale the Walls, which the Sentinell eſpying diſ<g ref="char:EOLhyphen"/>charged, as did other of our ſouldiers upon his A<g ref="char:EOLhyphen"/>larum, who were exceeding ready and diligent, notwithſtanding their continuall ſervice day and night, for the ſpace of ſixteene dayes and nights, for ſo long the Siege continued, and ſo that Plot (as the reſt) miſcarried: In this aſſault we loſt one man, and they (as wee conceive) about ſixtie, yet ſo indefati<g ref="char:EOLhyphen"/>gable were they, that they cauſed the Colliers
+<pb n="4" facs="tcp:115831:4"/>which they called to their aſſiſtance to under-mine us, which wee once or twice prevented by counter<g ref="char:EOLhyphen"/>mining and ſmoaking them out: Another Mine they had ſecreatly made from the Angell under one of our Towers, which wee ſuſpected not; this being fully prepared, Prince <hi>Rupert</hi> did againe; <hi>viz.</hi> on Thurſday morning, April 20. ſound a Parly, and tendred us the former Conditions, which we againe refuſing, they preſently blew up our Tower, and there made a terrible wide breach, and entered it preſently with much eagerneſſe and ſecurity as wee conceived, for many of their chiefe Commanders appeared firſt in it; about 40. of our Musketeers en<g ref="char:EOLhyphen"/>deavoured to make good the breach, the reſt of our ſouldiers being imployed on the Walls, which they were alſo now indeavouring to ſcale; theſe fortie ſeeing little execution done by their ſhot, being lead on by that truely valiant Souldier, Leiute<g ref="char:EOLhyphen"/>nant <hi>Mydhope</hi> did fall upon their Adverſaries (being betweene two or three hundred) pell mell, and with their Butt ends of their Muskets, their Swords, and Holbeards, did moſt bravely repell them, ſlew many, among which was Colonell <hi>Uſher,</hi> Captaine <hi>Corbet</hi> (ſay ſome Sir <hi>John Corbets</hi> Son) and many other Officers, to the number of about 60. and wounded neare upon 100. others a<g ref="char:EOLhyphen"/>mongſt which were the Lord <hi>Digbie</hi> who is ſnot in<g ref="char:EOLhyphen"/>to the knee, Colonell <hi>Wagſtaff,</hi> Mortally wounded, Colonell <hi>Garret</hi> hurt, tooke Priſoners divers great Commanders, among which was Capt. <hi>Legge,</hi> and Prince <hi>Ruperts</hi> Chaplaine, one <hi>Askin</hi> a <hi>Scottiſh</hi> man, unto whom a Chirurgion was ſent, Prince <hi>Rupert</hi> having before requeſted it, after this, while ſome
+<pb n="5" facs="tcp:115831:4"/>of our ſouldiers made good the breach, we went preſently to cleare the Cloſe of thoſe that ruſhed in, being about 150. who apprehending all their owne, as in probability they well might, fell on Plundering; divers of theſe wee tooke Priſoners, o<g ref="char:EOLhyphen"/>thers of them eſcaped downe the Ladders that were reared for their comming over unto us, a faire ſcape by Ladders.</p>
+            <p>We loſt in this dreadfull commotion not above eight men, two were blowne up with the Tower, and ſome foure or ſix wounded, and in all the ſiege before not above three or foure men; when we had breathed a little, a Councell of War was called, and perceiving our danger, how deſtitute of all re<g ref="char:EOLhyphen"/>liefe from men, and which was worſt of all, how very neere ſpent our Match and Powder were, not enough to make good another aſſault, we reſolved on theſe Articles to preſent to Prince <hi>Rupert.</hi>
+            </p>
+            <list>
+               <item>1. <hi>To leave the Cloſe, and to march out with our Bag and Baggage, and all our ſouldiers armed, and Colours flying.</hi>
+               </item>
+               <item>2. <hi>To have eleven Carts provided for us.</hi>
+               </item>
+               <item>3. <hi>That all the priſoners that any of the Kings forces had taken in</hi> Staffordſhire, <hi>ſince my Lord</hi> Brookes <hi>ar<g ref="char:EOLhyphen"/>rivall there, ſhould be releaſed.</hi>
+               </item>
+            </list>
+            <p>Unto which we added, that if Prince <hi>Rupert</hi> re<g ref="char:EOLhyphen"/>fuſed theſe termes, we would put all our priſoners we then had to the Sword, and die our ſelves upon the walls.</p>
+            <p>Upon the receipt of the Articles, Col. <hi>Haſtings</hi> came in to treate with us, and in a very ſhort time conſented to them, whereupon we marched forth orderly the next morning, being Friday, with our
+<pb facs="tcp:115831:5"/>Colours diſplayed, being about 80. Musketiers, and as many Horſemen with their Horſes and Armes, beſides the Commanders, and ſo paſſed through Prince <hi>Rupert</hi> his Army, which was ſet guard wiſe about a mile in length, none of his Souldiers offer<g ref="char:EOLhyphen"/>ing any abuſe to us, and ſo we came ſafe to Coven<g ref="char:EOLhyphen"/>try, ſome on Friday night, others on Saturday morning, and however we have cauſe to be humble, yet bleſſed be God, who hath not delivered us over unto death, but by us cut of many hundreds of our enemies.</p>
+            <p>That both our Commanders and Common ſoul<g ref="char:EOLhyphen"/>diers who kept <hi>Liechfield</hi> Cloſe may have their due commendations, this may not be omitted, namely, their great faithfulneſſe as well as courage, for al<g ref="char:EOLhyphen"/>though Prince <hi>Rupert</hi> and <hi>Haſtings</hi> uſed all meanes [as by commending them for their valour, proffering them preferment and good pay, &amp;c.] to cauſe them to deſert the Parliament, and ſerve under them, yet they refuſed, although they had never received pen<g ref="char:EOLhyphen"/>ny pay in all that ſervice.</p>
+            <list>
+               <head>The names of the Com<g ref="char:EOLhyphen"/>manders in the Cloſe.</head>
+               <item>Capt. <hi>Edw. Leigh.</hi>
+               </item>
+               <item>Serjeant Major <hi>Ruſſell.</hi>
+               </item>
+               <item>Capt. <hi>Greives.</hi>
+               </item>
+               <item>Capt. <hi>Henry Stone.</hi>
+               </item>
+               <item>Capt. <hi>Edward Foley.</hi>
+               </item>
+               <item>Capt. <hi>John Randolph.</hi>
+               </item>
+               <item>Capt. <hi>Spearing.</hi>
+               </item>
+               <item>Capt. <hi>Richard Smith.</hi>
+               </item>
+               <item>Capt. <hi>Holmes.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Names of ſome Commanders in Prince <hi>Ruperts</hi> Army.</head>
+               <item>Prince <hi>Rupert.</hi>
+               </item>
+               <item>Earle of <hi>Northampton.</hi>
+               </item>
+               <item>Lord <hi>Digby.</hi>
+               </item>
+               <item>Lord <hi>Capell.</hi>
+               </item>
+               <item>Col. <hi>Haſtings, Stanhop, Wagſtaffe, Uſher, Garret, Harding, &amp;c.</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
